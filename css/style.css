@@ -1,0 +1,40 @@
+
+.main-banner{
+	line-height: 150px;  
+	text-align: center;
+	font-size:20px;
+}
+
+.bodyContainer{
+	background: yellow;
+}
+.header{
+	  height:100px;  
+}
+.head-container{
+	background: green;
+	 margin:0 auto; 
+}
+
+.btn{
+text-align:center;
+	 margin:0 auto; 
+}
+.btn #startBtn{
+	font-size:50px;
+	padding:5px 100px;
+				
+}
+.buttonsRow{
+	display:none;
+}
+h3{
+	height:20px;
+
+}
+body{
+	background-image: url("../images/background.jpg"); background-size:100% 100%};
+}
+h1{
+	font-size:30px;
+}
